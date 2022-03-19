@@ -34,3 +34,17 @@ h5 {
   margin-left: 50px;
   margin-top: 29px;
 } 
+
+.footer {
+  font-size: 12px;
+  font-family: "Riyaz", sans-serif;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: #4f924f;
+  font-weight: bold;
+}
+
+.footer a {
+  color: rgb(240, 253, 235);
+  text-decoration: none;
+}
